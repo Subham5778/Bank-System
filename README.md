@@ -1,21 +1,40 @@
-🔹 Project Name: Bank Management System (Java OOP)
+🏦 Bank Management System (Java OOP)
 
-🔹 Description:
-Developed a console-based Banking System in Java demonstrating Object-Oriented Programming (OOP) principles and real-world financial operations. The system allows users to register, login, create checking/savings accounts, deposit, withdraw, transfer funds, add interest, and view transaction history.
+A console-based banking application built in Java that demonstrates Object-Oriented Programming (OOP) principles such as Encapsulation, Inheritance, and Polymorphism.
+The system allows users to create accounts, deposit/withdraw money, transfer funds, and view transaction history.
 
-🔹 Key Features:
+🚀 Features
 
-Implemented Checking & Savings accounts with interest functionality.
+🔐 User Authentication – Register & login to manage accounts securely
 
-Designed a Transaction History feature to track deposits, withdrawals, and transfers.
+💳 Multiple Accounts – Checking & Savings account support
 
-Used Encapsulation & Inheritance for clean, modular code.
+➕ Deposit & Withdraw – Safe balance updates with validation
 
-Enabled multi-account management with user authentication.
+🔄 Fund Transfer – Transfer money between accounts
 
-Ensured data integrity with input validation and error handling.
+📈 Interest Calculation – Add interest to Savings accounts
 
-🔹 Tech Stack: Java, Collections Framework (List, Set, Map), OOP, Console I/O
+📝 Transaction History – Logs deposits, withdrawals & transfers
 
-🔹 Outcome:
-Enhanced problem-solving and software design skills by building a practical, real-world financial application.
+⚡ Error Handling – Input validation & exception management
+
+🛠️ Tech Stack
+
+Language: Java (JDK 8+)
+
+Paradigm: Object-Oriented Programming (OOP)
+
+Concepts Used:
+
+Encapsulation
+
+Inheritance
+
+Polymorphism
+
+Abstraction
+
+Collections Framework (List, Set, Map)
+
+IDE: IntelliJ IDEA / Eclipse / VS Code
